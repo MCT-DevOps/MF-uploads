@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.morfans.cn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.morfans.cn/archives/category/other</loc>
+		<lastmod>2022-02-24T15:22:11+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/welfare</loc>
+		<lastmod>2022-02-24T15:07:44+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/technical_tutorial</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/system_area</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/welfare/soft_share</loc>
+		<lastmod>2022-02-24T15:15:00+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/welfare/other_share</loc>
+		<lastmod>2022-02-24T15:07:44+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/technical_tutorial/qt-for-linux</loc>
+		<lastmod>2017-05-26T15:57:36+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/technical_tutorial/node-js</loc>
+		<lastmod>2018-01-13T11:29:44+08:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.morfans.cn/archives/category/technical_tutorial/linux</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</url>
+</urlset>

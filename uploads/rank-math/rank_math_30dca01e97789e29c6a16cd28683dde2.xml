@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.morfans.cn/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://www.morfans.cn/post-sitemap.xml</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.morfans.cn/page-sitemap.xml</loc>
+		<lastmod>2021-09-19T11:01:43+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.morfans.cn/category-sitemap.xml</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.morfans.cn/post_tag-sitemap.xml</loc>
+		<lastmod>2022-02-26T00:09:00+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.morfans.cn/author-sitemap.xml</loc>
+		<lastmod>2022-02-26T08:09:00+08:00</lastmod>
+	</sitemap>
+</sitemapindex>
